@@ -14,8 +14,8 @@ import requests
 
 # Токены и интеграции
 TELEGRAM_TOKEN = "7694514556:AAGxJYnDg8ICQdso19CajW9DftKiBOBHSXo"
-OPENAI_API_KEY = "sk-nvSOQjzjxeHSuLPg4cC0093eAc3942A58840A816A9Ae3a10"
-OPENAI_API_BASE = "https://api.aiguoguo199.com/v1"
+OPENAI_API_KEY = "sk-B4aTwk0du0hzgnp8342b7f7c903849AeA580449317C97e11"
+OPENAI_API_BASE = "https://api.aiguoguo199.com"
 
 openai.api_key = OPENAI_API_KEY
 openai.api_base = OPENAI_API_BASE
